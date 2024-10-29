@@ -69,3 +69,17 @@ This project analyzes the popularity of local businesses in a specified area by 
 3. **Data Visulaization**:
     ```bash
     python data_visualization.py
+
+### Project Structure
+    ```bash
+    .
+    ├── README.md                 # Project documentation
+    ├── data/                     # Folder to store raw data
+    │   ├── google_places_data.json
+    │   └── yelp_data.json
+    ├── output/                   # Folder to save visualizations
+    │   └── business_popularity_map.html
+    ├── data_collection.py        # Script to fetch data from Google Places and Yelp APIs
+    ├── data_transformation.py    # Script for data cleaning and merging
+    ├── data_visualization.py     # Script to create map visualizations
+    └── requirements.txt          # List of required Python libraries

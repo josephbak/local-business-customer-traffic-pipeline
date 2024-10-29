@@ -52,3 +52,20 @@ This project analyzes the popularity of local businesses in a specified area by 
    ```bash
    git clone https://github.com/your-username/local-business-popularity.git
    cd local-business-popularity
+
+2. **Install Required Libraries**:
+    ```bash
+    pip install requests pandas plotly folium
+
+### How to Run
+1. **Data Collection**:
+    ```bash
+    python data_collection.py
+
+2. **Data Transformation**:
+    ```bash
+    python data_transformation.py
+
+3. **Data Visulaization**:
+    ```bash
+    python data_visualization.py

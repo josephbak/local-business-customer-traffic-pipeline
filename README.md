@@ -83,3 +83,4 @@ This project analyzes the popularity of local businesses in a specified area by 
     ├── data_transformation.py    # Script for data cleaning and merging
     ├── data_visualization.py     # Script to create map visualizations
     └── requirements.txt          # List of required Python libraries
+    ```

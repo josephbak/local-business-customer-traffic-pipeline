@@ -1,0 +1,545 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.7425885,
+                "lng": -73.9800928
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.74392652989272,
+                    "lng": -73.97882482010728
+                },
+                "southwest": {
+                    "lat": 40.74122687010728,
+                    "lng": -73.98152447989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Fumo Kips Bay",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100350545453426179554\">Tom O&#39;Keefe</a>"
+                ],
+                "photo_reference": "AdCG2DME4ZQuFMpxoZOvpLw8eWk2SdxWGAy5ivVHAMtHB5-7rDfHc2iM2W9Y7p3BGb7lW73L8lg1FUuss8KZP-O2HT-pLa4CGH_RtX-69zsTj1TkqqWznSzbIlB2i4L5Z4jjBYtsrEOKiyWGZhqhvI5sgPEVF0Fk8KRk18q7YfsYis0xH3js",
+                "width": 4080
+            }
+        ],
+        "place_id": "ChIJR0DxVQhZwokRY4vlDg_TZMI",
+        "plus_code": {
+            "compound_code": "P2V9+2X New York",
+            "global_code": "87G8P2V9+2X"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJR0DxVQhZwokRY4vlDg_TZMI",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 183,
+        "vicinity": "415 3rd Ave, New York"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.7419313,
+                "lng": -73.984644
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.74325927989272,
+                    "lng": -73.98332607010728
+                },
+                "southwest": {
+                    "lat": 40.74055962010728,
+                    "lng": -73.98602572989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Upland",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 660,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118337853419564287359\">Saiful Islam</a>"
+                ],
+                "photo_reference": "AdCG2DO3qBC7L6dQwwJCb9IFWJ9e485RQ6Ih_eSSXz6dDy3oR3JKW8bMqNsSCuR5oaDqU_dVB1Bn4OhNdEl8Wn8QMv-BPQFY8_QPrbROGJwU8kn19Gx2kekH_3rNnqdeVtkhA5QQG-JadAiw-3EFlcXfpgonlX5DTUn_yti4S4azF7OewLd2",
+                "width": 990
+            }
+        ],
+        "place_id": "ChIJWVD7FadZwokRs_pS6XY7VOU",
+        "plus_code": {
+            "compound_code": "P2R8+Q4 New York",
+            "global_code": "87G8P2R8+Q4"
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "ChIJWVD7FadZwokRs_pS6XY7VOU",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "meal_takeaway",
+            "bar",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2156,
+        "vicinity": "345 Park Ave S, New York"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.7605875,
+                "lng": -73.98952380000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.76190107989272,
+                    "lng": -73.98820512010728
+                },
+                "southwest": {
+                    "lat": 40.75920142010727,
+                    "lng": -73.99090477989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Kitchen 46",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1333,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101126673036475288028\">A Google User</a>"
+                ],
+                "photo_reference": "AdCG2DMvDrZaDDZsUGnTI_Xolepocj-BcBEX8Yla3KaN5L_yO9XGeXH45EpTey5-m89s10qLQBAwXqVsDOA6ipdozzRLS4p4IG7TKD5_fOXU3_72d6ABVfPJGFOu_2SNsSkDP0XWPvF9ConX7s2cG_XC3T3Gn2KSrI7OSEyrg9OKu4ZphmPT",
+                "width": 2000
+            }
+        ],
+        "place_id": "ChIJmX1a4alZwokROmk9tCzmJbQ",
+        "plus_code": {
+            "compound_code": "Q266+65 New York",
+            "global_code": "87G8Q266+65"
+        },
+        "rating": 4.8,
+        "reference": "ChIJmX1a4alZwokROmk9tCzmJbQ",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 456,
+        "vicinity": "343 W 46th St, New York"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.757498,
+                "lng": -73.986654
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.75891212989272,
+                    "lng": -73.98532467010729
+                },
+                "southwest": {
+                    "lat": 40.75621247010728,
+                    "lng": -73.98802432989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Carmine's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107712532148225729261\">Carmine&#39;s</a>"
+                ],
+                "photo_reference": "AdCG2DOxlnHlSaPLEHQdKj9ruaWZqa_cO4A93xXk4fkVDeiscOWCv2PoJFo7_aPyVU_S5OkhT4pzsDx0Ajw8hbD2-Ir-OjaU4H0MussD1a2g_O1OLi1n11TwFGcXa00YJvzuqBqO58rUCsDUZSxXxp7Y6qT7avx7G7N2fRzry1R9t6EnZHIu",
+                "width": 5760
+            }
+        ],
+        "place_id": "ChIJR9So-lRYwokRX1xEjA0rChA",
+        "plus_code": {
+            "compound_code": "Q247+X8 New York",
+            "global_code": "87G8Q247+X8"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJR9So-lRYwokRX1xEjA0rChA",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 16652,
+        "vicinity": "200 W 44th St, New York"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.756175,
+                "lng": -73.9946239
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.75742937989272,
+                    "lng": -73.99327102010727
+                },
+                "southwest": {
+                    "lat": 40.75472972010727,
+                    "lng": -73.99597067989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "IL Punto",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2403,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114466960532454627794\">IL Punto Ristorante</a>"
+                ],
+                "photo_reference": "AdCG2DOekXgHOERIP48dkxf5W42OZ_g55ebtDhzrSJNeWXNCE_uGr9M7wJwCmRjkoyvoM7zb0FLI6H3_E947M8Vy3FD15XYHGCYvhndR0Xbwc1_eWFbuKx7ANZDaHDT9wGtvyEKGsE-VY886ayzREV-zE67r4mLREQLm8tIflGykdhqZc1kv",
+                "width": 3600
+            }
+        ],
+        "place_id": "ChIJw1QgWK1ZwokRnOR94NZ1i8w",
+        "plus_code": {
+            "compound_code": "Q244+F5 New York",
+            "global_code": "87G8Q244+F5"
+        },
+        "price_level": 3,
+        "rating": 4.6,
+        "reference": "ChIJw1QgWK1ZwokRnOR94NZ1i8w",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 989,
+        "vicinity": "507 9th Ave, New York"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.7597641,
+                "lng": -73.9823074
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.76115892989272,
+                    "lng": -73.98091187010728
+                },
+                "southwest": {
+                    "lat": 40.75845927010727,
+                    "lng": -73.98361152989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Oceana",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 6656,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100507182521450733936\">A Google User</a>"
+                ],
+                "photo_reference": "AdCG2DNzbqU7URTIgsxIR1zIG5XoxXrJC_FCh8gWiUM_0q2Qn1EKOD8zJhxGpeXg3fP3V3dZKh-Og1JB9Zr8ThIghJTtNPZrhg3gSlD_v7JCRpmc6qZVBm0seIUHO4moYNLp1awgjNzjCZfXXuKhMo7qXxcKYoVa20UaEEhFbg9daPM87tcs",
+                "width": 13312
+            }
+        ],
+        "place_id": "ChIJ34SOS_9YwokR7vXpNdS9tZ8",
+        "plus_code": {
+            "compound_code": "Q259+W3 New York",
+            "global_code": "87G8Q259+W3"
+        },
+        "price_level": 4,
+        "rating": 4.5,
+        "reference": "ChIJ34SOS_9YwokR7vXpNdS9tZ8",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 1305,
+        "vicinity": "120 W 49th St, New York"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.7574443,
+                "lng": -73.9935806
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.75877567989272,
+                    "lng": -73.99218837010729
+                },
+                "southwest": {
+                    "lat": 40.75607602010728,
+                    "lng": -73.99488802989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Capizzi",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107743290380854343422\">sang an</a>"
+                ],
+                "photo_reference": "AdCG2DOqK7AvMMvtK5VywTH3k2hGL0HoVgGwDcRW9ezJsLmfeom2hrs9-X-P69afbB2qz9v_M_hzwnRqdf4eu5vRrMByfQdXTtMTSxdVyJcS8fAplQLCNtPxPU-XS0nQ6TwkYuGdbXQUDTyF0pTyaeX37Drjm4fcmx2_lOcyDr8SWvvA1Tz9",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJURgSuVJYwokRyUTyhXB9K4c",
+        "plus_code": {
+            "compound_code": "Q244+XG New York",
+            "global_code": "87G8Q244+XG"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJURgSuVJYwokRyUTyhXB9K4c",
+        "scope": "GOOGLE",
+        "types": [
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 2049,
+        "vicinity": "547 9th Ave, New York"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.7454744,
+                "lng": -73.9757727
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.74680047989272,
+                    "lng": -73.97426592010727
+                },
+                "southwest": {
+                    "lat": 40.74410082010728,
+                    "lng": -73.9769655798927
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Gemini",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104093541652565627714\">George Washington</a>"
+                ],
+                "photo_reference": "AdCG2DNwNcqiocEEeedSWwwWG3cVp6FME183mMAiwUA8F7MLIYRLS_EeAPWZ6JcP-Dgxj-HLgyO3K8M42oIycwel0zK33btK6XTMvf7bES8OEMo9BEFk9X3jJF5P7bnJU16JfbL5YADHGXSCo3Vhm2Z-2NmE4i2v2HBHeaRdtN3qI9Pc2nM",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ64cvvgVZwokRVTEHtk8acis",
+        "plus_code": {
+            "compound_code": "P2WF+5M New York",
+            "global_code": "87G8P2WF+5M"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ64cvvgVZwokRVTEHtk8acis",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "cafe",
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 816,
+        "vicinity": "641 2nd Ave, New York"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.75676,
+                "lng": -73.9934938
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.75817617989272,
+                    "lng": -73.99228952010728
+                },
+                "southwest": {
+                    "lat": 40.75547652010728,
+                    "lng": -73.99498917989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Burger World",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 699,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104771314122255249345\">A Google User</a>"
+                ],
+                "photo_reference": "AdCG2DMqba7X2rvQKBMZ-HvFPjRwAo6adnk7DoZ8WEAU7FZN_l0nWC89Xfnkyrjy65HpKjXUsyt7Qq4c3jKNNIgxzo8x9rus6ePm5Tp5jsVDy-1n9FqbpCvdDv-k42y7BIagvq3wnBZfICSMkD1MaVS_dWfs_j30inyEkOczxuusjz7Hfw53",
+                "width": 1241
+            }
+        ],
+        "place_id": "ChIJqRlVtFJYwokRxEWs_qn7F3w",
+        "plus_code": {
+            "compound_code": "Q244+PJ New York",
+            "global_code": "87G8Q244+PJ"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJqRlVtFJYwokRxEWs_qn7F3w",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 969,
+        "vicinity": "534 9th Ave, New York"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": {
+                "lat": 40.754282,
+                "lng": -73.990352
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 40.75559642989272,
+                    "lng": -73.98903977010728
+                },
+                "southwest": {
+                    "lat": 40.75289677010728,
+                    "lng": -73.99173942989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Black Iron Burger | Hamburger restaurant",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2340,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108478475256936007851\">Jodi Bodell</a>"
+                ],
+                "photo_reference": "AdCG2DN2fIeJVwdzswDpMPTCLDWTKqW5SFSbjBsIeTasE0-mJSESPw1SZ0CSIYCPp86t01iKFsbdekrMreykFPbV6WaP9pHzK7SLh_M-4qDjlm9RwzkI7nnm8UbfK_1DeMya2ZgeJkV_wsJbx3vRMzFer7dgBjup8BJ00MjclL7reL7YDZEJ",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJnSnH8qxZwokRzoMUSAeaFAA",
+        "plus_code": {
+            "compound_code": "Q235+PV New York",
+            "global_code": "87G8Q235+PV"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJnSnH8qxZwokRzoMUSAeaFAA",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_delivery",
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 4089,
+        "vicinity": "245 W 38th St, New York"
+    }
+]
